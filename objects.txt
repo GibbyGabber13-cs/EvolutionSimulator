@@ -1,0 +1,131 @@
+m miteA 100 5 10 1 -2
+m miteB 95 12 15 -3 2
+m miteC 90 25 30 0 -1
+m miteD 85 50 45 2 3
+m miteE 80 70 80 -2 -2
+m miteF 75 10 20 1 1
+m miteG 70 35 40 0 2
+m miteH 65 60 65 -1 -3
+m miteI 60 45 55 3 1
+m miteJ 55 80 90 -2 2
+m miteK 50 70 50 2 -1
+m miteL 45 55 60 -3 0
+m miteM 40 20 25 1 3
+m miteN 35 15 35 -1 2
+m miteO 30 40 80 0 -3
+m miteP 25 30 50 2 1
+m miteQ 20 60 45 -2 -1
+m miteR 15 50 30 1 -2
+m miteS 10 80 30 -1 1
+m miteT 5 70 20 3 -3
+m miteU 95 5 15 0 1
+m miteV 85 25 35 -1 0
+m miteW 75 45 25 1 -1
+m miteX 65 20 40 0 2
+m miteY 55 30 60 -2 1
+m miteZ 45 10 50 1 0
+m miteAA 35 50 70 -1 -1
+m miteAB 25 60 80 2 2
+m miteAC 15 70 90 0 -2
+m miteAD 5 90 10 1 1
+m miteAE 90 15 20 -1 0
+m miteAF 80 35 30 0 1
+m miteAG 70 55 40 1 -1
+m miteAH 60 75 50 -2 2
+m miteAI 50 95 60 0 0
+m miteAJ 40 85 70 1 1
+m miteAK 30 65 80 -1 -2
+m miteAL 20 45 90 2 0
+m miteAM 10 25 10 0 1
+m miteAN 5 15 20 -1 1
+m miteAO 95 35 30 1 -1
+m miteAP 85 55 40 0 2
+m miteAQ 75 75 50 -2 0
+m miteAR 65 95 60 1 1
+m miteAS 55 85 70 -1 -1
+m miteAT 45 65 80 0 0
+m miteAU 35 45 90 2 2
+m miteAV 25 25 10 -1 0
+m miteAW 15 15 20 0 1
+m miteAX 5 5 30 1 -1
+
+b berry1 2 5
+b berry2 3 8
+b berry3 15 10
+b berry4 20 20
+b berry5 18 25
+b berry6 22 18
+b berry7 8 30
+b berry8 13 45
+b berry9 11 40
+b berry10 25 35
+b berry11 35 25
+b berry12 40 40
+b berry13 50 30
+b berry14 50 50
+b berry15 60 60
+b berry16 35 50
+b berry17 45 55
+b berry18 5 70
+b berry19 10 60
+b berry20 25 70
+b berry21 30 85
+b berry22 60 75
+b berry23 70 40
+b berry24 80 30
+b berry25 90 20
+b berry26 70 10
+b berry27 60 5
+b berry28 15 75
+b berry29 35 10
+b berry30 75 20
+b berry31 20 90
+b berry32 10 90
+b berry33 95 95
+b berry34 50 85
+b berry35 80 85
+b berry36 35 65
+b berry37 50 75
+b berry38 60 55
+b berry39 90 50
+b berry40 95 40
+b berry41 45 20
+b berry42 25 50
+b berry43 70 5
+b berry44 80 10
+b berry45 15 40
+b berry46 90 70
+b berry47 70 90
+b berry48 60 85
+b berry49 50 10
+b berry50 5 15
+b berry51 10 25
+b berry52 20 35
+b berry53 30 45
+b berry54 40 55
+b berry55 50 65
+b berry56 60 75
+b berry57 70 85
+b berry58 80 95
+b berry59 90 5
+b berry60 5 95
+b berry61 15 85
+b berry62 25 75
+b berry63 35 65
+b berry64 45 55
+b berry65 55 45
+b berry66 65 35
+b berry67 75 25
+b berry68 85 15
+b berry69 95 10
+b berry70 10 10
+b berry71 20 20
+b berry72 30 30
+b berry73 40 40
+b berry74 50 50
+b berry75 60 60
+b berry76 70 70
+b berry77 80 80
+b berry78 90 90
+b berry79 5 5
+b berry80 15 15
